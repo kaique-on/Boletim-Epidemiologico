@@ -153,6 +153,7 @@ footer {
 .posicionamento_logos {
     display: flex;
     gap: 20px;
+    align-items: center;
 }
 .fundo_redondo {
     display: flex;
